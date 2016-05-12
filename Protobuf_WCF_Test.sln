@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBuf_WcfService", "ProtoBuf_WcfService\ProtoBuf_WcfService.csproj", "{C9B1411D-D5FA-4687-AE0C-A8DCD6D79EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoBuf_Model", "ProtoBuf_Model\ProtoBuf_Model.csproj", "{BB8758DE-080D-4C04-85EE-A5876FB65B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Protobuf_WCF_ClinetTest\Tools.csproj", "{FD054D6E-E724-4786-BF1B-1B0ACE8C58E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B1411D-D5FA-4687-AE0C-A8DCD6D79EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B1411D-D5FA-4687-AE0C-A8DCD6D79EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B1411D-D5FA-4687-AE0C-A8DCD6D79EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B1411D-D5FA-4687-AE0C-A8DCD6D79EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8758DE-080D-4C04-85EE-A5876FB65B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8758DE-080D-4C04-85EE-A5876FB65B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8758DE-080D-4C04-85EE-A5876FB65B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8758DE-080D-4C04-85EE-A5876FB65B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD054D6E-E724-4786-BF1B-1B0ACE8C58E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD054D6E-E724-4786-BF1B-1B0ACE8C58E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD054D6E-E724-4786-BF1B-1B0ACE8C58E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD054D6E-E724-4786-BF1B-1B0ACE8C58E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
